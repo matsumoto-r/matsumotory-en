@@ -3,16 +3,16 @@
 After getting bachelor, he worked for three years in a hosting company. Experience in the company was recognized, and he skip the master's program and admmition to doctoral program in the Graduate School of Informatics, Kyoto University. He has been researched about OS, Middleware and protocol. He interested in security, resource management, performance, large-scale, operation technology for Web servers, the next generation infrastructure technology like Test-Driven Infrastructure and Immutable Infrastructure, and the next generation HTTP protocol like SPDY, HTTP/2 and QUIC in particular.
 
 ## Contact
-- Okabe Laboratory
-- Academic Center for Computing and Media Studies
-- Research Bldg.#5, Yoshida Campus, Kyoto University
-- Yoshida-honmachi, Sakyo, Kyoto, 606-8501, Japan
-- Email: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
-
 - GitHub    [matsumoto-r](https://github.com/matsumoto-r)
 - Twitter   [@matsumotory](https://twitter.com/matsumotory)
 - Facebook  [matsumotory](https://www.facebook.com/matsumotory)
 - Blog      [人間とウェブの未来](http://blog.matsumoto-r.jp/)
+- Email: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
+
+- Okabe Laboratory
+- Academic Center for Computing and Media Studies
+- Research Bldg.#5, Yoshida Campus, Kyoto University
+- Yoshida-honmachi, Sakyo, Kyoto, 606-8501, Japan
 
 ## Affiliation
 - 2012.4 -
@@ -53,21 +53,43 @@ After getting bachelor, he worked for three years in a hosting company. Experien
 - [IPSJ Study Report in Kansai 2013 __Student Award__](http://kansai.ipsj.or.jp/hyoshou/2013_hyoshou.html) Yoshiharu Tsuzaki, MATSUMOTO Ryosuke, Daisuke Kotani, Shuichi Miyazaki, Yasuo Okabe, __A Mail Transfer System Selectively Restricting a Huge Amoount of E-mails__, IPSJ Study Report in Kansai 2013 E-23, 2013.9.
 - [Ruby Prize nominees](http://www.ruby.or.jp/ja/news/20130821.html)
 
-***
-
 ## Journal Paper
 - MATSUMOTO Ryosuke, Yasuo Okabe,__Access Control Architecture Separating Privilege by a Thread on a Web Server__,[IEICE Journal Vol.J96-B, No.10, pp.1122-1130](http://search.ieice.org/bin/index.php?category=B&lang=J&curr=1), Oct 2013.
 - MATSUMOTO Ryosuke, Masashi Kawahara, Teruo Matsuoka, __Improvement of Security and Operation Technology for a Highly Scalable and Large-Scale Shared Web Virtual Hosting System__, [IPSJ Journal, Vol.54, No.3, pp.1077-1086](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=91315&item_no=1&page_id=13&block_id=8), Mar. 2013. 
 
-***
-
-### Conference Paper
+## Conference Paper
 - Yoshiharu Tsuzaki, Ryosuke Matsumoto, Daisuke Kotani, Shuichi Miyazaki, Yasuo Okabe, __A Mail Transfer System Selectively Restricting a Huge Amoount of E-mails__, Workshop on Resilient Internet based Systems (REIS 2013), Dec. 2013.
 - Hiroki Okamoto, Ryosuke Matsumoto, Yasuo Okabe, __Design of Cooperative Load Distribution for Addressing Flash Crowds Using P2P File Sharing Network__, [IEEE 37th Annual International Computer Software and Applications Conference (COMPSAC2013)](http://compsac.cs.iastate.edu/), July 2013 (to appear)
 - Ryosuke Matsumoto, Yasuo Okabe, __Access Control Architecture Separating Privilege by a Thread on a Web Server__, The 12th IEEE/IPSJ International Symposium on Applications and the Internet (SAINT2012), pp.178-183, July 2012.
 
-***
+## My OSS
+- [Github matsumoto-r](https://github.com/matsumoto-r)
+- Sharing technical infomation in Japanese
+  - [Register Underflow](https://registerunderflow.org)
+- mruby
+  - [mruby libraries](https://github.com/search?q=%40matsumoto-r+mruby)
+- Nginx Module
+  - [ngx_mruby](https://github.com/matsumoto-r/ngx_mruby)
+- Apache Module
+  - [mod_mruby](https://github.com/matsumoto-r/mod_mruby)
+  - [mod_request_dumper](https://github.com/matsumoto-r/mod_request_dumper)
+  - [mod_process_security](https://modules.apache.org/search.php?id=2595)
+  - [mod_resource_checker](https://modules.apache.org/search.php?id=2559)
+  - [mod_vlimit](https://modules.apache.org/search.php?id=2570)
+  - [mod_lalimit](https://modules.apache.org/search.php?id=2568)
+  - [mod_vlimitconn](https://modules.apache.org/search.php?id=2558)
+  - [resource Lib for mod_lua](https://github.com/matsumoto-r/lua-get-resources)
+- Apache HTTP Server patch
+  - scoreboard patch
+  - mod_vhost_alias pacth
+  - mod_ruid2 patch
+- Operation Tools
+  - [resources-managed-tools](https://github.com/matsumoto-r/resources-managed-tools)
+  - [piotop](https://github.com/matsumoto-r/piotop)
+  - [qos-control](https://github.com/matsumoto-r/qos-control)
+  - [Zabbix-API-Client](https://github.com/matsumoto-r/Zabbix-API-Client)
 
+## Publications in Japan
 ### Conference Paper in Japan
 - 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月. 
 - 松本亮介, 川原将司, 松岡輝夫, __汎用性の高い大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [インターネットと運用技術シンポジウム2011論文集,2011,31-38 (2011-11-24) ](http://id.nii.ac.jp/1001/00078710/), 2011年12月. 
@@ -131,31 +153,4 @@ After getting bachelor, he worked for three years in a hosting company. Experien
 - Zabbix-users
 - Apache-jp
 - ScureOS-jp
-
-## My OSS
-- [Github matsumoto-r](https://github.com/matsumoto-r)
-- Sharing technical infomation in Japanese
-  - [Register Underflow](https://registerunderflow.org)
-- mruby
-  - [mruby libraries](https://github.com/search?q=%40matsumoto-r+mruby)
-- Nginx Module
-  - [ngx_mruby](https://github.com/matsumoto-r/ngx_mruby)
-- Apache Module
-  - [mod_mruby](https://github.com/matsumoto-r/mod_mruby)
-  - [mod_request_dumper](https://github.com/matsumoto-r/mod_request_dumper)
-  - [mod_process_security](https://modules.apache.org/search.php?id=2595)
-  - [mod_resource_checker](https://modules.apache.org/search.php?id=2559)
-  - [mod_vlimit](https://modules.apache.org/search.php?id=2570)
-  - [mod_lalimit](https://modules.apache.org/search.php?id=2568)
-  - [mod_vlimitconn](https://modules.apache.org/search.php?id=2558)
-  - [resource Lib for mod_lua](https://github.com/matsumoto-r/lua-get-resources)
-- Apache HTTP Server patch
-  - scoreboard patch
-  - mod_vhost_alias pacth
-  - mod_ruid2 patch
-- Operation Tools
-  - [resources-managed-tools](https://github.com/matsumoto-r/resources-managed-tools)
-  - [piotop](https://github.com/matsumoto-r/piotop)
-  - [qos-control](https://github.com/matsumoto-r/qos-control)
-  - [Zabbix-API-Client](https://github.com/matsumoto-r/Zabbix-API-Client)
 
