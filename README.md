@@ -111,7 +111,7 @@ After getting bachelor, he worked for three years in a hosting company. Experien
 - 2012年06月 [第1回 mruby誕生の経緯を明かそう](http://itpro.nikkeibp.co.jp/article/COLUMN/20120622/404824/?s2p)
 - 2012年06月 [まつもとゆきひろ氏に「mruby」の経緯について聞いた（1）](http://techon.nikkeibp.co.jp/article/NEWS/20120620/224023/)
 
-## その他所属
+## Other Affiliation
 - IEICE
 - IPSJ
 - mruby forum special member
