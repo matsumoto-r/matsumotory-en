@@ -10,9 +10,9 @@ After getting bachelor, he worked for three years in a hosting company. Experien
 - Email: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
 
 - Okabe Laboratory
-- Academic Center for Computing and Media Studies
-- Research Bldg.#5, Yoshida Campus, Kyoto University
-- Yoshida-honmachi, Sakyo, Kyoto, 606-8501, Japan
+  - Academic Center for Computing and Media Studies
+  - Research Bldg.#5, Yoshida Campus, Kyoto University
+  - Yoshida-honmachi, Sakyo, Kyoto, 606-8501, Japan
 
 ## Affiliation
 - 2012.4 -
