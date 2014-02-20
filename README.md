@@ -93,8 +93,8 @@ After getting bachelor, he worked for three years in a hosting company. Experien
 
 ## Publications in Japan
 ### Conference Paper in Japan
-- 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月. 
-- 松本亮介, 川原将司, 松岡輝夫, __汎用性の高い大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [インターネットと運用技術シンポジウム2011論文集,2011,31-38 (2011-11-24) ](http://id.nii.ac.jp/1001/00078710/), 2011年12月. 
+- MATSUMOTO Ryosuke, Yasuo Okabe, __mod_mruby: A Fast and Memory-Efficient Web Server Extension Mechanism Using Scripting Language__, [IOTS2013 Symposium Papers，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013.12.
+- MATSUMOTO Ryosuke, Kawahara Masashi, Teruo Matsuoka, __Improvement of Security and Operation Technology for a Highly Scalable and Large-scale Shared Web Virtual Hosting System__, [IOTS2013 Symposium Papers，2011,31-38 (2011-11-24) ](http://id.nii.ac.jp/1001/00078710/), 2011.12. 
 
 ***
 
