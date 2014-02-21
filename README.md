@@ -54,7 +54,7 @@ After getting bachelor, he worked for three years in a hosting company. Experien
 - [IPSJ Internet and Operation Technology Symposium 2013 (IOTS2013) __Student Award__](http://iot.ipsj.or.jp/iots/2013/award), MATSUMOTO Ryosuke, Yasuo Okabe, __mod_mruby: A Fast and Memory-Efficient Web Server Extension Mechanism Using Scripting Language__, [IOTS2013 Symposium Papers，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013.12.
 - IPSJ Internet and Operation Technology Workshop 23 (IOT23) __Student Award__, MATSUMOTO Ryosuke, Yasuo Okabe, __Resource Control Architecture for a Web Server Separating Computer Resources Virtually at Each HTTP Request__, [IPSJ Study Report Vol.2013-IOT-23, No.4](http://id.nii.ac.jp/1001/00095297/), 2013.9.
 - [IPSJ Study Report in Kansai 2013 __Student Award__](http://kansai.ipsj.or.jp/hyoshou/2013_hyoshou.html), Yoshiharu Tsuzaki, MATSUMOTO Ryosuke, Daisuke Kotani, Shuichi Miyazaki, Yasuo Okabe, __A Mail Transfer System Selectively Restricting a Huge Amoount of E-mails__, IPSJ Study Report in Kansai 2013 E-23, 2013.9.
-- [Ruby Prize nominees](http://www.ruby.or.jp/ja/news/20130821.html)
+- [Ruby Prize nominees](http://www.ruby.or.jp/en/news/20130821e.html)
 
 ## Journal Paper
 - MATSUMOTO Ryosuke, Yasuo Okabe,__Access Control Architecture Separating Privilege by a Thread on a Web Server__,[IEICE Journal Vol.J96-B, No.10, pp.1122-1130](http://search.ieice.org/bin/index.php?category=B&lang=J&curr=1), Oct 2013.
