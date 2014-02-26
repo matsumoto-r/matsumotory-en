@@ -4,22 +4,21 @@
 
 After getting bachelor, he worked for three years in a hosting company. Experience in the company was accepted, and he skip the master's program and admmition to doctoral program in the Graduate School of Informatics, Kyoto University. He has been researched about OS, Middleware and protocol. He interested in security, resource management, performance, large-scale, operation technology for Web servers, the next generation infrastructure technology like Test-Driven Infrastructure and Immutable Infrastructure, and the next generation HTTP protocol like SPDY, HTTP/2 and QUIC in particular. He is [mod_mruby](http://matsumoto-r.github.io/mod_mruby/) and [ngx_mruby](http://matsumoto-r.github.io/ngx_mruby/) author. 2013, [IPSJ IOTS2013 Best Paper Award](http://iot.ipsj.or.jp/iots/2013/award), 2014, [6th FUKUOKA Ruby Award Outstanding Performance Award](http://www.myfukuoka.com/news/2014-fukuoka-ruby-award-winners.html), [9th Japan OSS Encouragement Award](http://www.ossforum.jp/ossaward9th2).
 
-## Contact
-- GitHub    [matsumoto-r](https://github.com/matsumoto-r)
-- Twitter   [@matsumotory](https://twitter.com/matsumotory)
-- Facebook  [matsumotory](https://www.facebook.com/matsumotory)
-- Blog      [人間とウェブの未来](http://blog.matsumoto-r.jp/)
-- Email: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
-
-- Okabe Laboratory
-  - Academic Center for Computing and Media Studies
-  - Research Bldg.#5, Yoshida Campus, Kyoto University
-  - Yoshida-honmachi, Sakyo, Kyoto, 606-8501, Japan
-
 ## Affiliation
 - 2012.4 -
   - Ph.D Student
   - [Network Media Group](http://www.net.ist.i.kyoto-u.ac.jp/), Department of Intelligence Science and Technology, Graduate School of Informatics, Kyoto University.
+
+## Contact
+- Okabe Laboratory
+  - Academic Center for Computing and Media Studies
+  - Research Bldg.#5, Yoshida Campus, Kyoto University
+  - Yoshida-honmachi, Sakyo, Kyoto, 606-8501, Japan
+- Email      matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
+- GitHub    [matsumoto-r](https://github.com/matsumoto-r)
+- Twitter   [@matsumotory](https://twitter.com/matsumotory)
+- Facebook  [matsumotory](https://www.facebook.com/matsumotory)
+- Blog      [人間とウェブの未来](http://blog.matsumoto-r.jp/)
 
 ## Research Topics
 - Security, Resource Management, Performance, Large-Scale and Operation Technology about OS and Middleware
